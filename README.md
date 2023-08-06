@@ -6,8 +6,6 @@ You can use the found information to gather more information or just find ways t
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/champmq/TheScrapper.git
-cd TheScrapper
 pip3 install -r requirements.txt
 ```
 <br>
